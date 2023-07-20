@@ -23,7 +23,7 @@ Se construyó una interfaz idéntica a la Google actualmente, la cual estuvo div
 - Parte derecha: enlaces que se encuentran en la parte superior derecha de la página original de google.com (para redirigirse a la Política de Privacidad, Condiciones del servicio, y a las Preferencias (este último simbólico ya que solo era por motivos gráficos)).
 
 ## Objetivos 🚀
-// Apredizaje // Práctica // Introducción a HTML y CSS así como sus elementos y propiedades.
+// Apredizaje // Práctica // Introducción a HTML y CSS así como sus elementos y propiedades // Desarrollo web para principiantes.
 
 ### Imágen de ejecución
 Ya ejecutándose puede lucir de la siguiente manera:
