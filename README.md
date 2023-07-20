@@ -10,17 +10,17 @@ Como parte del curso de inicialización a la programación web, fue fundamental 
 Se construyó una interfaz idéntica a la Google actualmente, la cual estuvo divida en 3 secciones de HTML principales: 
 
 ### 1. Sección Header:
-   ° Enlace para acceder a gmail.com.
-   ° Enlace para acceder a Google Imágenes.
-   ° Ícono para las aplicaciones de google (únicamente el ícono).
-   ° Imagen de prueba de foto de perfil.
+- Enlace para acceder a gmail.com.
+- Enlace para acceder a Google Imágenes.
+- Ícono para las aplicaciones de google (únicamente el ícono).
+- Imagen de prueba de foto de perfil.
 ### 2. Sección Main:
-   ° Sección 1: Imagen de Google.
-   ° Sección 2: Barra de búsqueda para escribir (no envía a nada ya que solamente es interfaz) junto con los logos simbólicos para acceder al dictado por voz o la búsqueda por imágenes (solo íconos).
-   ° Sección 3: Botones simbólicos para iniciar la búsqueda del texto o de la página web. 
+- Sección 1: Imagen de Google.
+- Sección 2: Barra de búsqueda para escribir (no envía a nada ya que solamente es interfaz) junto con los logos simbólicos para acceder al dictado por voz o la búsqueda por imágenes (solo íconos).
+- Sección 3: Botones simbólicos para iniciar la búsqueda del texto o de la página web. 
 ### 3. Sección Footer:
-   ° Parte izquierda: enlaces que se encuentran en la parte superior izquierda de la página original de google.com (para redirigirse al Acerca de Google, Publicidad, Negocios y Cómo funciona la búsqueda).
-   ° Parte derecha: enlaces que se encuentran en la parte superior derecha de la página original de google.com (para redirigirse a la Política de Privacidad, Condiciones del servicio, y a las Preferencias (este último simbólico ya que solo era por motivos gráficos)).
+- Parte izquierda: enlaces que se encuentran en la parte superior izquierda de la página original de google.com (para redirigirse al Acerca de Google, Publicidad, Negocios y Cómo funciona la búsqueda).
+- Parte derecha: enlaces que se encuentran en la parte superior derecha de la página original de google.com (para redirigirse a la Política de Privacidad, Condiciones del servicio, y a las Preferencias (este último simbólico ya que solo era por motivos gráficos)).
 
 ## Objetivos 🚀
 // Apredizaje // Práctica // Introducción a HTML y CSS así como sus elementos y propiedades.
