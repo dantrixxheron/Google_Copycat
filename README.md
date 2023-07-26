@@ -22,11 +22,10 @@ Se construyó una interfaz idéntica a la Google actualmente, la cual estuvo div
 - Parte izquierda: enlaces que se encuentran en la parte superior izquierda de la página original de google.com (para redirigirse al Acerca de Google, Publicidad, Negocios y Cómo funciona la búsqueda).
 - Parte derecha: enlaces que se encuentran en la parte superior derecha de la página original de google.com (para redirigirse a la Política de Privacidad, Condiciones del servicio, y a las Preferencias (este último simbólico ya que solo era por motivos gráficos)).
 
-## Objetivos 🚀
-// Apredizaje // Práctica // Introducción a HTML y CSS así como sus elementos y propiedades // Desarrollo web para principiantes.
-
 ### Imágen de ejecución
 Ya ejecutándose puede lucir de la siguiente manera:
 ![image](https://github.com/dantrixxheron/Google_Copycat/assets/123124430/8b0be257-6d9e-4db6-9dd9-3ecca584e002)
 
 
+## Objetivos 🚀
+// Apredizaje // Práctica // Introducción a HTML y CSS así como sus elementos y propiedades // Desarrollo web para principiantes.
